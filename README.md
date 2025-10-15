@@ -9,6 +9,7 @@ This project is a **continuation of the [Coffee Sales Analysis](http://github.co
 
 ## Technologies used:
 -Python (pandas, numpy, matplotlib, seaborn,sickit-learn)
+
 -Jupyter Notebook for analyzing and visualizing
 
 
@@ -18,11 +19,15 @@ This project is a **continuation of the [Coffee Sales Analysis](http://github.co
 git clone https://github.com/Sabina-MM/coffee-sales-predictions.git
 
 2.Install dependencies:
+
 pip install -r requirements.txt
 
 Usage
+
 1.Open the notebook notebooks/coffee-sales-predictions.ipynb for data exploration and visualization
+
 2.Train the model by running src/train_model.py
+
 3.Generate future predictions using src/predict.py
 
 
