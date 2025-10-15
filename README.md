@@ -1,6 +1,6 @@
-# coffee-sales-predictions
-WIP
-Project focused on analyzing and predicting coffee sales using decision tree regressor
+# coffee-sales-predictions WIP
+
+This project is a **continuation of the [Coffee Sales Analysis](http://github.com/Sabina-MM/coffee-sales-analysis**, it is focused on follow-up extends the analysis with Machine Learning techniques to predict future coffee sales.
 
 ## Main sections:
 - **Exploratory Data Analysis(EDA)**
@@ -26,4 +26,3 @@ Usage
 3.Generate future predictions using src/predict.py
 
 
-Results
